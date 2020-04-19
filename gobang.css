@@ -1,0 +1,14 @@
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btn {
+    margin-top: 30px;
+}
+.btn button {
+    margin-right: 20px;
+    width: 150px;
+    height: 30px;
+}
